@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "node-screenshots": "^0.1.9",
+    "pixelmatch": "^5.3.0",
+    "pngjs": "^7.0.0",
+    "robotjs": "^0.6.0",
+    "terminal-image": "^1.2.1"
+  },
+  "name": "shinyfinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
